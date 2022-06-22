@@ -2,13 +2,13 @@
     {
         "moduleName" : "Sample - Cohort Selection",
         "path"       : "modules/sample/cohort_selection/cohort_selection.py",
-        "execute"    : true,
+        "execute"    : false,
         "description": "sample module to showcase cohort selection: ",
         "owner"      : ""
     }, {
         "moduleName" : "Sample - Data Processing",
         "path"       : "modules/sample/data_processing/data_processing.py",
-        "execute"    : true,
+        "execute"    : false,
         "description": "sample module to showcase data processing",
         "owner"      : ""
     }, {
@@ -17,34 +17,10 @@
         "execute"    : true,
         "description": "sample module to showcase modelling",
         "owner"      : ""
-    }, {
-        "moduleName" : "Sample - Report Generation",
-        "path"       : "modules/sample/report_generation/report_generation.py",
-        "execute"    : true,
-        "description": "sample module to showcase report generation",
-        "owner"      : ""
-    },  {
-        "moduleName" : "cohort Selection",
-        "path"       : "modules/cohort_selection/cohort_selection.py",
-        "execute"    : false,
-        "description": "module to run scripts for cohort selection",
-        "owner"      : ""
-    },  {
-        "moduleName" : "Data Processing",
-        "path"       : "modules/data_processing/data_processing.py",
-        "execute"    : false,
-        "description": "module to run scripts for data processing",
-        "owner"      : ""
-    },  {
-        "moduleName" : "Modelling",
-        "path"       : "modules/modelling/modelling.py",
-        "execute"    : false,
-        "description": "module to run scripts for modelling or analytics",
-        "owner"      : ""
     },  {
         "moduleName" : "Report Generation",
-        "path"       : "modules/report_generation/report_generation.py",
-        "execute"    : false,
+        "path"       : "modules/sample/practicing_sql.py",
+        "execute"    : true,
         "description": "module to run scripts for generating reports ",
         "owner"      : ""
     }
